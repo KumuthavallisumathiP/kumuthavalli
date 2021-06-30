@@ -1,0 +1,18 @@
+a=int(input("enter a number;")) 
+b=int(input("enter a number;")) 
+sub =a-b
+Divide =a/b
+Multiply=a*b
+Print("result of sub is :"sub) 
+Print("result of divison is :"divide) 
+Print("result of multiply is :"multiply) 
+ 
+
+
+
+Enter a number :8
+Enter a number :4
+Result of sub is:4
+Result of division :2
+Result of multiply is :32
+
